@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <meta property="dcterms:modified">2025-09-03T23:16:41Z</meta>
+    <meta property="dcterms:modified">2025-09-15T03:39:09Z</meta>
     <meta name="generator" content="Ebook-lib 0.19.0"/>
     <dc:identifier id="id">20250830204821</dc:identifier>
     <dc:title>शाकुन्तल</dc:title>
@@ -9,18 +9,17 @@
     <dc:creator id="creator">लक्ष्मीप्रसाद देवकोटा</dc:creator>
     <dc:date>2025-08-30T20:48:21Z</dc:date>
     <dc:publisher>Sahityaras</dc:publisher>
-    <source_publisher>साझा प्रकाशन</source_publisher>
-    <source_edition>आठौँ</source_edition>
-    <source_year>२०६३</source_year>
-    <source_isbn>99933-2-518-x</source_isbn>
-    <book_about>शाकुन्तल लक्ष्मीप्रसाद देवकोटाद्वारा कालिदासको अभिज्ञान शाकुन्तलम् को कथानकलाई प्रमुख आधार मानी रचना गरिएको नेपाली भाषाको महाकाव्य हो। शाकुन्तल महाकाव्य नेपालीमा प्रकाशित सर्वप्रथम मौलिक महाकाव्य हो। यसको कथावस्तु प्राचीन इतिहास प्रसिद्ध भए तापनि कवि कल्पनाले गर्दा यो मौलिक बन्न पुगेको देखिन्छ। २००२ सालमा पहिलो पल्ट प्रकाशित भएको यो महाकाव्य नेपाली महाकाव्यको मङ्गलाचरणका रूपमा आएको छ।&#13;
-प्रस्तुत महाकाव्यमा जम्मा २४ सर्ग रहेका छन्। प्रत्येक सर्गमा मौलिकता र नवीनता झल्केको देख्न सकिन्छ। महाकाव्यमा देवकोटाले परोक्ष शैलीमा सामाजिक आदर्शको सूचना दिएका छन्। राजा दुष्यन्तले शकुन्तलालाई गरेको तिरस्कार देखाएर देवकोटाले आफ्नो देशका शासकलाई सतर्क गराएका छन्। उनले किसानको नयाँ प्रसङ्ग जोडी सरलता र अतिथि सत्कार गर्ने नेपाली जातीय परम्पराको राम्रो चित्रण गरेका छन्। दुष्यन्त र शकुन्तलाको वादविवाद, शिष्य शार्ङ्गरव र दुष्यन्तको भनाभन, विश्वामित्रको तपोभङ्ग गर्न उद्यत स्वर्गलोक र त्यहाँको विलासीपन, शकुन्तलाको सरलता, शकुन्तलालाई घर पठाउने क्रममा कण्वले दिएको मार्मिक अभिव्यक्ति आदि सबै जसो प्रसङ्गभित्र नेपाली सामाजिकता झल्किएको छ।</book_about>
-    <book_genre>महाकाव्य</book_genre>
-    <book_slug>shakuntala</book_slug>
+    <meta name="source_publisher" content="साझा प्रकाशन"></meta>
+    <meta name="source_edition" content="आठौँ"></meta>
+    <meta name="source_year" content="२०६३"></meta>
+    <meta name="source_isbn" content="99933-2-518-x"></meta>
+    <meta name="book_about" content="शाकुन्तल लक्ष्मीप्रसाद देवकोटाद्वारा कालिदासको अभिज्ञान शाकुन्तलम् को कथानकलाई प्रमुख आधार मानी रचना गरिएको नेपाली भाषाको महाकाव्य हो। शाकुन्तल महाकाव्य नेपालीमा प्रकाशित सर्वप्रथम मौलिक महाकाव्य हो। यसको कथावस्तु प्राचीन इतिहास प्रसिद्ध भए तापनि कवि कल्पनाले गर्दा यो मौलिक बन्न पुगेको देखिन्छ। २००२ सालमा पहिलो पल्ट प्रकाशित भएको यो महाकाव्य नेपाली महाकाव्यको मङ्गलाचरणका रूपमा आएको छ।&#13;&#10;प्रस्तुत महाकाव्यमा जम्मा २४ सर्ग रहेका छन्। प्रत्येक सर्गमा मौलिकता र नवीनता झल्केको देख्न सकिन्छ। महाकाव्यमा देवकोटाले परोक्ष शैलीमा सामाजिक आदर्शको सूचना दिएका छन्। राजा दुष्यन्तले शकुन्तलालाई गरेको तिरस्कार देखाएर देवकोटाले आफ्नो देशका शासकलाई सतर्क गराएका छन्। उनले किसानको नयाँ प्रसङ्ग जोडी सरलता र अतिथि सत्कार गर्ने नेपाली जातीय परम्पराको राम्रो चित्रण गरेका छन्। दुष्यन्त र शकुन्तलाको वादविवाद, शिष्य शार्ङ्गरव र दुष्यन्तको भनाभन, विश्वामित्रको तपोभङ्ग गर्न उद्यत स्वर्गलोक र त्यहाँको विलासीपन, शकुन्तलाको सरलता, शकुन्तलालाई घर पठाउने क्रममा कण्वले दिएको मार्मिक अभिव्यक्ति आदि सबै जसो प्रसङ्गभित्र नेपाली सामाजिकता झल्किएको छ।"></meta>
+    <meta name="book_genre" content="महाकाव्य"></meta>
+    <meta name="book_slug" content="shakuntala"></meta>
     <meta name="cover" content="cover-img"></meta>
   </metadata>
   <manifest>
-    <item href="../styles/global.css" id="static_0" media-type="text/css"/>
+    <item href="styles/global.css" id="static_0" media-type="text/css"/>
     <item href="images/cover.jpg" id="cover-img" media-type="image/jpeg" properties="cover-image"/>
     <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
     <item href="text/coverpage.xhtml" id="chapter_0" media-type="application/xhtml+xml"/>
